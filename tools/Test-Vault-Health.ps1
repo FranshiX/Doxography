@@ -18,8 +18,10 @@ $safeGitPathspecs = @(
     'التقاليد-الباطنية',
     'الفلسفة',
     'علم-النفس-العميق',
+    'عقل-الدوكسوغراف',
     'tools',
     'Agent_v2.md',
+    'INVOKE_AGENT.md',
     '.gitignore',
     '.stignore.shared'
 )
