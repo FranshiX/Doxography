@@ -6,9 +6,31 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:\"Faust — اللحظة التي تطلب من الزمن أن يتوقف\" OR file:\"Gilgamesh — الملك الذي عاد وفي يده فراغ\" OR file:\"Inanna — الأنا التي خلعتها بوابات العالم السفلي\" OR file:\"لعازر — الرجل الذي عاد ولم يخبرنا ماذا رأى\"",
+      "color": {
+        "a": 1,
+        "rgb": 11357695
+      }
+    },
+    {
+      "query": "file:\"بورخيس — الزمن الذي يكتشف أنه نحن\" OR file:\"العتبة التي تخلع اسمك — Arnold van Gennep وطقوس العبور\" OR file:\"ميرتشا إلياده — الحنين إلى صباح العالم\" OR file:\"D. H. Lawrence — الجسد الذي رفض أن يصير فكرة\" OR file:\"Bhagavad Gita — الفعل حين تنهار براءة اليد\"",
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
+    },
+    {
+      "query": "path:\"٠٠-الفهرس\"",
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
