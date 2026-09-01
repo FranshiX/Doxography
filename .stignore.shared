@@ -1,0 +1,14 @@
+// Shared Syncthing exclusions for the Doxography vault.
+// Each device keeps a local .stignore containing:
+// #include .stignore.shared
+
+/.git
+/.stversions
+/.vault-tools
+/.trash
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/cache
+(?d).DS_Store
+(?d)Thumbs.db
+(?d)Desktop.ini

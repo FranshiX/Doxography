@@ -1,0 +1,17 @@
+# Syncthing state and local history
+.stignore
+.stversions/
+.vault-tools/
+
+# Obsidian device-local UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Resolve synchronization conflicts before committing them
+*.sync-conflict-*
+
+# Operating-system noise
+.DS_Store
+Thumbs.db
+Desktop.ini
