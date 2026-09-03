@@ -12,3 +12,20 @@
 (?d).DS_Store
 (?d)Thumbs.db
 (?d)Desktop.ini
+
+// Only explicitly allowed vault paths are synchronized.
+// Rooted directory patterns include their descendants without traversing other roots.
+!/الفلسفة
+!/الأدب-والفن
+!/علم-النفس-العميق
+!/الأنثروبولوجيا
+!/الأسطورة-وعلم-الأديان-المقارن
+!/التقاليد-الباطنية
+!/التاريخ-والسياق
+!/٠٠-الفهرس
+!/عقل-الدوكسوغراف
+!/INVOKE_AGENT.md
+!/Agent_v2.md
+!/.gitignore
+!/.stignore.shared
+*

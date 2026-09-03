@@ -1,5 +1,6 @@
 # Syncthing state and local history
 .stignore
+.stfolder/
 .stversions/
 .vault-tools/
 
