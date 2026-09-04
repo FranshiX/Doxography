@@ -1,1 +1,7 @@
-{}
+{
+  "baseFontSizeAction": true,
+  "textFontFamily": "Amiri",
+  "interfaceFontFamily": "Amiri",
+  "monospaceFontFamily": "Amiri",
+  "baseFontSize": 14
+}
