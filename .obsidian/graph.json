@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:\"Faust — اللحظة التي تطلب من الزمن أن يتوقف\" OR file:\"Gilgamesh — الملك الذي عاد وفي يده فراغ\" OR file:\"Inanna — الأنا التي خلعتها بوابات العالم السفلي\" OR file:\"لعازر — الرجل الذي عاد ولم يخبرنا ماذا رأى\"",
@@ -27,6 +27,41 @@
         "a": 1,
         "rgb": 8421504
       }
+    },
+    {
+      "query": "path:الأسطورة-وعلم-الأديان-المقارن  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:نظام-الزوايا-التسعة  ",
+      "color": {
+        "a": 1,
+        "rgb": 15067404
+      }
+    },
+    {
+      "query": "path:الفلسفة  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:الأدب-والفن path:",
+      "color": {
+        "a": 1,
+        "rgb": 15231490
+      }
+    },
+    {
+      "query": "path:الأنثروبولوجيا  ",
+      "color": {
+        "a": 1,
+        "rgb": 2885354
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2315662532782236,
+  "scale": 0.724297503685301,
   "close": true
 }
